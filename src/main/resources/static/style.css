@@ -1,0 +1,150 @@
+body {
+  padding-top: 70px;
+  background: url(https://images.unsplash.com/photo-1521020773588-3b28297b1e70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2069&q=80);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: lato;
+  background-repeat: no-repeat;
+}
+
+.jumbotron {
+  color: #152742;
+  background-color: #ecf0f1;
+}
+
+.navbar-inverse {
+  background-color: #152742;
+}
+
+#pealkiri {
+  font-family: Indie Flower;
+  font-size: 20px
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+#sisu {
+  text-align: center;
+  padding-top: 22%;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 5px 9px rgba(0, 0, 0, 0.1),
+}
+
+#suurPealkiri {
+  font-weight: 700;
+  font-size: 5em;
+  color: rgb(21, 39, 66);
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+
+#alaPealkiri {
+  color: rgb(21, 39, 66);
+  display: table;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  border-color: white;
+  border-width: 5px;
+  text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+}
+
+h1, h3 {
+  color: white;
+}
+
+html {
+  height: 100%;
+}
+
+hr {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#nupp {
+  margin-top: 5px;
+}
+
+.btn-default:hover {
+  background-color: rgba(21, 39, 66, 0.5);
+  color: white;
+  border-color: rgb(21, 39, 66);
+}
+
+.projectRowButtons {
+  float: left;
+  margin-right: 5px;
+}
+
+.btn-default {
+  background-color: rgba(21, 39, 66, 1.0);
+  color: white;
+  border-color: rgb(21, 39, 66);
+}
+
+.btn-default:focus {
+  color: white !important;
+  background-color: rgba(21, 39, 66, 1.0) !important;
+}
+
+.btn-success:hover {
+  background-color: rgba(21, 39, 66, 0.5);
+  color: white;
+  border-color: rgb(21, 39, 66);
+}
+
+.btn-success {
+  background-color: rgba(21, 39, 66, 1.0);
+  color: white;
+  border-color: rgb(21, 39, 66);
+}
+
+.btn-success:focus {
+  color: white !important;
+  background-color: rgba(21, 39, 66, 1.0) !important;
+}
+
+#infokast {
+  height: 50%;
+  width: 50%;
+  margin-top: 10%;
+  font-family: lato;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: middle;
+  align-content: middle;
+  display: table;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2%;
+  color: rgb(21, 39, 66);
+}
+
+#uusPealkiri {
+  color: rgb(21, 39, 66);
+  }
+
+  .text-danger{
+  color: red;
+  }
+
+  .text-warning{
+  color: rgb(183, 146, 0);
+  }
+
+  .text-info{
+  color: green;
+  }
